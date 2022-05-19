@@ -7,4 +7,7 @@ Play Music user interface.
 
 It uses LibVLC and vlcj to play media files on your own computer.
 
+Downloaded from nightly builds, dmg for Mac Intel
+https://nightlies.videolan.org/
+
 ## Table of Contents
