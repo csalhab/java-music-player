@@ -10,4 +10,12 @@ It uses LibVLC and vlcj to play media files on your own computer.
 Downloaded from nightly builds, dmg for Mac Intel
 https://nightlies.videolan.org/
 
+This application requires the use of a MongoDB database.
+
+You can use a pre-existing MongoDB database, a local standard installation, or a database running inside a Docker
+container.
+
+You can configure the MongoDB database connection details in an application.properties or application.yaml file in
+the same directory that you start the application from.
+
 ## Table of Contents
