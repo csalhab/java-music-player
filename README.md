@@ -18,4 +18,7 @@ container.
 You can configure the MongoDB database connection details in an application.properties or application.yaml file in
 the same directory that you start the application from.
 
+Starter code:
+https://github.com/caprica/choonio
+
 ## Table of Contents
