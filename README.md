@@ -21,4 +21,6 @@ the same directory that you start the application from.
 Starter code:
 https://github.com/caprica/choonio
 
+Figuring out MongoDB usage and version.
+
 ## Table of Contents
